@@ -1,0 +1,3 @@
+import funcoes
+funcoes.exibir()
+
